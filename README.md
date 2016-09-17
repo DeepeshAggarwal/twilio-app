@@ -15,7 +15,7 @@ cd twilio-app
 virtualenv ENV
 source bin/activate
 ```
-more about virtual env. can be read [here](https://virtualenv.pypa.io/en/stable/userguide/)
+more about virtual env. can be read [here](https://virtualenv.pypa.io/en/stable/userguide/)<br />
 3. Install the dependencies
 ```
 sudo python -m requirements.txt
