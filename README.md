@@ -16,7 +16,7 @@ cd twilio-app
 virtualenv ENV
 source bin/activate
 ```
-more about virtual env. can be read [here](https://virtualenv.pypa.io/en/stable/userguide/) <br />
+more about virtual env. can be read [here](https://virtualenv.pypa.io/en/stable/userguide/)
 
 3. Install the dependencies
 ```
@@ -24,7 +24,7 @@ sudo python -m requirements.txt
 ```
 
 Usage
------
+------------
 
 1. Run Flask Server
 ```
