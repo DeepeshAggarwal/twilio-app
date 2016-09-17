@@ -11,7 +11,7 @@ Installation
 git clone https://github.com/DeepeshAggarwal/twilio-app.git
 cd twilio-app
 ```
-2 If you want to create virtualEnv.
+2. If you want to create virtualEnv.
 ```
 virtualenv ENV
 source bin/activate
