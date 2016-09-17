@@ -4,7 +4,6 @@ Message to twilio number and get the latest update of cricket Score of Live Matc
 
 Installation
 ------------
-
 1. First clone this repository and ```cd``` into it.
 ```
 git clone https://github.com/DeepeshAggarwal/twilio-app.git
